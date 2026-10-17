@@ -1,0 +1,5 @@
+LIBRARY TaskbarCustomizerXaml
+EXPORTS
+    DllGetClassObject PRIVATE
+    DllCanUnloadNow PRIVATE
+    TaskbarCustomizerBootstrapHook PRIVATE

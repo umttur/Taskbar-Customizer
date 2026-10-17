@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Taskbar Customizer</title>
+  <rect x="8" y="12" width="48" height="40" rx="8" fill="#171717" stroke="#FACC15" stroke-width="4"/>
+  <path d="M10 38H54" stroke="#FACC15" stroke-width="4"/>
+  <rect x="21" y="43" width="6" height="6" rx="1.5" fill="#FACC15"/>
+  <rect x="29" y="43" width="6" height="6" rx="1.5" fill="#FACC15"/>
+  <rect x="37" y="43" width="6" height="6" rx="1.5" fill="#FACC15"/>
+</svg>
